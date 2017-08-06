@@ -10,7 +10,7 @@ const USERS = [{
     userName: 'joeschmoe@business.com',
     position: 'Sr. Engineer',
     isAdmin: true,
-    password: 'password'
+    password: 'pass@123'
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const USERS = [{
     userName: 'sallystudent@business.com',
     position: 'Jr. Engineer',
     isAdmin: true,
-    password: 'password'
+    password: 'pass@123'
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const USERS = [{
     userName: 'lila@business.com',
     position: 'Growth Hacker',
     isAdmin: false,
-    password: 'password'
+    password: 'pass@123'
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const USERS = [{
     userName: 'freddy@business.com',
     position: 'Community Manager',
     isAdmin: false,
-    password: 'password'
+    password: 'pass@123'
   }
 ];
 
